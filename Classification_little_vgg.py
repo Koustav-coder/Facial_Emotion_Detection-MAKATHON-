@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 12 19:08:10 2021
 
-@author: mainak
+
 """
 from __future__ import print_function
 import keras
