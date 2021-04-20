@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 13 04:04:53 2021
 
-@author: Mainak
+
 """
 from keras.models import load_model
 from time import sleep
